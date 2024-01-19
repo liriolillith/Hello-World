@@ -1,0 +1,23 @@
+
+/**
+ * 
+ * 
+ * @author ldesr
+ * @version 1.0.0 2024-01-16 Initial implementation
+ *
+ */
+public class Hello
+    {
+
+   
+    /**
+     * 
+     * 
+     * @param args s
+     */
+    public static void main(String[] args)  {
+    System.out.println("\n Hello World ");
+}
+
+    }
+   // end class Hello
